@@ -1,7 +1,36 @@
-/*
-white: #f7f9f9;
-light-blue: #2081c3;
+body{
+    margin: 0;
+    background-color: white;
+    flex-direction: column;
+}
+
+#navLayout{
+    background-color: #2081c3;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px
+}
+
+#footer{
+    background-color: #0a2c42;   
+    margin:0;
+}
+#footer p{
+    color:white;
+    padding: 15px;
+}
+
+.btn{
+    color: white;
+    text-decoration: none;
+}
+
+#beerglass{
+   width: 30%;
+} 
+
+
+
+
+/* 
 dark-blue: #0a2c42;
-grey: #bfbfbf;
-font-family: Arial, Helvetica, sans-serif;
-*/
+grey: #bfbfbf; */
